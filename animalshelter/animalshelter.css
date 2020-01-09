@@ -1,0 +1,48 @@
+img {
+    width: 650px;
+    height: 500px;
+    border: 10px solid aqua;
+    padding: 10px;
+    background-color: deeppink;
+}
+.corgi {
+    float: left;
+    border: 2px solid black;
+    width: 690px;
+}
+
+.corgitext {
+    color: aqua;
+    font-size: 20px;
+    text-align: center;
+}
+
+.shiba {
+    float: right;
+    border: 2px solid black;
+    width: 690px;
+}
+.shibatext {
+    color: aqua;
+    font-size: 20px;
+    text-align: center;
+}
+body {
+    background-color: darkgray;
+}
+
+.head {
+    text-decoration: underline deeppink;
+    text-shadow: 2px 2px black;
+    color: aqua;
+}
+
+.brown {
+    border: 2px solid black;
+    width: 690px;
+}
+
+.browntext {
+    color: aqua;
+    font-size: 20px;
+}
